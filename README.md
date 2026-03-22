@@ -51,8 +51,4 @@ Recall (/recall): Before every AI response, we query the Hindsight cluster to fe
 👨‍💻 Developed By
 Vipin Goyal (VipinGoyalCSE) - Full Stack Developer & AI Integration
 
-Ab ye commands chalao taaki ye README GitHub par dikhne lage:
-Bash
-git add README.md
-git commit -m "Added professional README for Hackathon judging"
-git push origin main
+
